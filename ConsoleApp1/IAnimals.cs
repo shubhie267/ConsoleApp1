@@ -1,0 +1,4 @@
+﻿interface IAnimals
+{
+    void makessound();
+}
